@@ -1,10 +1,7 @@
 # Two-Tier AWS Infrastructure with Terraform
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
-[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
-[![AWS](https://img.shields.io/badge/AWS-%F0%9F%9B%A1-orange)](https://aws.amazon.com)
-[![Terraform](https://img.shields.io/badge/Terraform-%E2%9C%A8-lightgrey)](https://www.terraform.io)
 
-<img src="bloody-sweet/assets/Two-Tier-Architecture.gif"> </img>
+
+<img src="madhu-vcube/assets/Two-Tier-Architecture.gif"> </img>
 
 ## Overview
 
@@ -24,7 +21,7 @@ Follow these steps to deploy the Two-Tier architecture:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/AmanPathak-DevOps/Terraform-for-AWS
+   git clone https://github.com/Venn1991/Terraform-for-AWS
    cd Terraform-for-AWS/Non-Modularized/Two-Tier-Application/bloody-sweet
    ```
 
@@ -68,14 +65,6 @@ These project highlights showcase the comprehensive AWS services integrated into
 
 ## Detailed Guide
 
-For an in-depth walkthrough of the project, check out the detailed guide on [Medium](https://medium.com/@amanpathakdevops/deploy-two-tier-architecture-on-aws-using-terraform-9a1e310811c0).
-
-## Connect with Me
-
-- GitHub: [GitHub Profile](https://github.com/AmanPathak-DevOps)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aman-devops/)
-
-## Contributions
 
 Feel free to contribute and adapt this project to suit your needs. We welcome your ideas and improvements.
 
